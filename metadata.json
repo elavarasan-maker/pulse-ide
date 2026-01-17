@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Pulse IDE: Instant Code Engine",
+  "description": "A high-velocity, AI-first code builder that generates complete, multi-file projects from simple natural language prompts, designed to outpace traditional IDE workflows.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
